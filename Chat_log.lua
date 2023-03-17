@@ -1,3 +1,7 @@
+-- Script criado por: Valber
+-- Para ver o script original acesse: https://github.com/valberlimabr
+
+
 -- Função que será chamada quando um jogador enviar uma mensagem no chat
 local function OnChat(event, player, message, type, language)
     -- Verifica se o jogador é um GM de nível 3 (GM Master)

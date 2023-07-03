@@ -1,4 +1,4 @@
--- Script criado por: Valber
+-- Script criado por: ValberDEV
 -- Para ver o script original acesse: https://github.com/valberlimabr
 
 
